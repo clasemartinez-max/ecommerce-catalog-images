@@ -1,0 +1,13 @@
+# Dependencies for ecommerce-catalog-images scripts
+#
+# remove_background.py  -> rembg, pillow
+# combine_images.py     -> pillow
+#
+# Tested with the versions below (June 2026). rembg requires Python >= 3.11.
+# Install with:
+#   pip install -r requirements.txt
+# On Claude.ai / Claude Code sandboxes you may need:
+#   pip install -r requirements.txt --break-system-packages
+
+rembg>=2.0.75
+pillow>=12.2.0

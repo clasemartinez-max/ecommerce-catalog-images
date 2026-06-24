@@ -1,0 +1,6 @@
+# Dependencias de la app de Streamlit
+# Probado en junio 2026. rembg requiere Python >= 3.11.
+
+streamlit>=1.58.0
+rembg>=2.0.75
+pillow>=12.2.0
